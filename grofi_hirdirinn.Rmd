@@ -1,0 +1,17 @@
+---
+title: "Grófi Hirðirinn"
+author: "Þórgnýr Thoroddsen"
+date: "11/2/2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+####Tillaga um að útfært verði fyrirkomulag til að gera fólki kleift að endurnýta heillegt byggingarefni og annað sambærilegt.
+
+Lagt er til að til reynslu verði settir sérstakir gámar á valdar endurvinnslustöðvar þangað sem hægt verði að koma með nýtilegt timbur, afgangs þéttull, pípur, hurðir og annað gróft sem ella myndi rata á haugana. 
+
+####Greinargerð
+Nokkuð hefur borið á því að grófur en nýtilegur afgangi frá framkvæmdum hverskonar hafi ratað í gáma Sorpu á endurvinnslustöðvunum. Eðlilega er oft beðið um að fá að hirða slíkt úr gámunum en það skal engan undra að slík leyfi fást ekki vegna öryggissjónarmiða eða venju. 
